@@ -3,6 +3,8 @@ ship "Protector"
 	thumbnail "thumbnail/protector"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"Syndicate Subscription"
 		"cost" 5500000
 		"shields" 10000
 		"hull" 7800
@@ -65,6 +67,8 @@ ship "Vanguard"
 	thumbnail "thumbnail/vanguard"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"Syndicate Subscription"
 		"cost" 7200000
 		"shields" 9800
 		"hull" 6000
