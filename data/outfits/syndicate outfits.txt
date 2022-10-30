@@ -151,8 +151,8 @@ outfit "30KZ Electrostatic Thruster"
 	"outfit space" -56
 	"engine capacity" -56
 	"energy consumption" 3.0
-	"thrust" 44.2
-	"thrusting energy" 7.2
+	"thrust" 46.2
+	"thrusting energy" 7.3
 	"thrusting heat" 5.2
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
