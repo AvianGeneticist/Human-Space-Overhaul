@@ -131,7 +131,7 @@ outfit "20KZ Electrostatic Thruster"
 	"mass" 31
 	"outfit space" -31
 	"engine capacity" -31
-	"energy consumption" 1.7
+	"energy consumption" 1.5
 	"thrust" 23.7
 	"thrusting energy" 4.7
 	"thrusting heat" 2.9
